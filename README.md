@@ -1,4 +1,4 @@
-# LLM_Science_Exam
+# LLM to Solve Multiple Choice Science Exam
 
 
 ## Dataset Description
